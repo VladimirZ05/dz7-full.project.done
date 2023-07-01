@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+.wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+}
+.cityName{
+    border: 1px solid orange;
+    height: 30px;
+    color: green;
+}
+p{
+    color: orange;
+}
